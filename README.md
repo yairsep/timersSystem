@@ -20,7 +20,7 @@ Data is stored over MongoDB container.
 
 ### Installing
 
-* git clone https://github.com/yairsep/timersSystem
+* git clone https://github.com/yairsep/timersSystem.git
 * cd server
 * npm install --legacy-peer-deps
 * docker-compose up
